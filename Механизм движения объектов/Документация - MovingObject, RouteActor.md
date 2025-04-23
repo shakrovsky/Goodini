@@ -77,4 +77,9 @@
 
 ---
 
-Создатель данного механизма - 
+## Автор:
+
+**Юрий Давыденко**
+
+- GitHub: [github.com/shakrovsky](https://github.com/shakrovsky)
+- Telegram: [https://t.me/tailung_official](https://t.me/tailung_official)
