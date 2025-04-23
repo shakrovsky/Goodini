@@ -3,8 +3,8 @@
 #include "RouteActor.h"			  	 // Объявление класса-маршрута.
 
 #include "CoreMinimal.h"		  	 // Базовые типы, функции Unreal Engine.
-#include "GameFramework/Actor.h"  	 // Объявление родительского класса - AActor.
-#include "MovingObject.generated.h"  // Авто-сгенерированный заголовок для системы рефлексии.
+#include "GameFramework/Actor.h"  	         // Объявление родительского класса - AActor.
+#include "MovingObject.generated.h"              // Авто-сгенерированный заголовок для системы рефлексии.
 
 /*	--- --- --- ---  */
 
