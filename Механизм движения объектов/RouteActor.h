@@ -1,8 +1,8 @@
 #pragma once
 
 #include "CoreMinimal.h"		  	 // Базовые типы, функции Unreal Engine.
-#include "GameFramework/Actor.h"  	 // Объявление родительского класса - AActor.
-#include "RouteActor.generated.h"    // Авто-сгенерированный заголовок для системы рефлексии.
+#include "GameFramework/Actor.h"  	         // Объявление родительского класса - AActor.
+#include "RouteActor.generated.h"                // Авто-сгенерированный заголовок для системы рефлексии.
 
 /*  --- --- --- ---  */
 
